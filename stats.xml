@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<project>
+	<stats id="1001">
+		<stats1>1</stats1>
+		<stats2>2</stats2>
+		<stats3>3</stats3>
+	</stats>
+	<stats id="2001">
+		<stats1>4</stats1>
+		<stats2>5</stats2>
+		<stats3>6</stats3>
+	</stats>
+</project>
